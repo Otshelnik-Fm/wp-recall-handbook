@@ -1,7 +1,7 @@
 Name: WP-Recall Handbook;
-Version: 1.0;
+Version: 1.0.1;
 Support Core: 14.2.6;
-Description: Справочник по плагину WP-Recall. Факты, видео, ссылки на руководства для старта разработки под плагин;
+Description: Справочник по плагину WP-Recall. Факты, видео, ссылки на руководства для старта разработки под плагин. Создает в админке страницу Handbook;
 Author: Otshelnik-Fm;
 Author URI: https://codeseller.ru/author/Otshelnik-Fm/;
 Add-on URI: https://codeseller.ru/products/wp-recall-handbook/;

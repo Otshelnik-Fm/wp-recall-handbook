@@ -23,6 +23,7 @@
 <span>WP-Recall. Организация интернет-магазина. Урок 2:</span>
 <iframe width="680" height="415" src="https://www.youtube.com/embed/AkuId3MDhcQ" frameborder="0" allowfullscreen></iframe>
 <br/>
+<br/>
 <span>Другие дополнения к плагину Wp-Recall:</span>
 <br/>
 <span><a title="Перейти к дополнению" href="https://codeseller.ru/products/plagin-posts-filter-generator-konstruktor-proizvolnyx-form-dlya-poiska-i-filtracii-zapisej-wordpress/">Posts Filter Generator</a> - создание поискового фильтра:</span>

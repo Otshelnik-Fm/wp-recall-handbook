@@ -22,18 +22,21 @@ function wprh_page_content(){
 
 // ловим get и подключаем нужный файл страницы
 function wprh_catch_get() {
-    $wprh_get = $_GET['tab'];
-    switch ($wprh_get) {
-        case 'wprh_facts':
-            require_once("tab-1.php");
-            break;
-        case 'wprh_developer':
-            require_once("tab-2.php");
-            break;
-        case 'wprh_video':
-            require_once("tab-3.php");
-            break;
-        default : require_once("tab-1.php");
+    if(isset($_GET['tab'])){
+        $wprh_get = $_GET['tab'];
+        switch ($wprh_get) {
+            case 'wprh_facts':
+                require_once("tab-1.php");
+                break;
+            case 'wprh_developer':
+                require_once("tab-2.php");
+                break;
+            case 'wprh_video':
+                require_once("tab-3.php");
+                break;
+        }
+    } else {
+        require_once("tab-1.php");
     }
 }
 
