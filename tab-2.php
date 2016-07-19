@@ -25,6 +25,7 @@
     <li><a href="https://codeseller.ru/post-group/kastomizacii-formy-publikacii-wp-recall/">Кастомизация формы публикации Wp-Recall</a></li>
     <li><a href="https://codeseller.ru/post-group/proizvolnye-polya-formy-publikacii-wp-recall/">Произвольные поля формы публикации Wp-Recall</a></li>
     <li><a href="https://codeseller.ru/forum/faqs/dobavlenie-fajlov/#p14360">Добавить в форму публикации загрузку своих типов файлов</a></li>
+    <li><a href="https://codeseller.ru/forum/product-7084/ubrat-vyvod-metok/">Вывести все метки в форме публикации или убрать их вовсе</a></li>
     <li></li>
     <li><a href="https://codeseller.ru/post-group/dobavlyaem-svoi-tip-rejtinga-v-sistemu-rejtinga-wp-recall/">Добавляем свои тип рейтинга в систему рейтинга Wp-Recall</a></li>
     <li><a href="https://codeseller.ru/post-group/podklyuchaem-k-sisteme-rejtinga-wp-recall-proizvolnyj-obekt/">Подключаем к системе рейтинга Wp-Recall произвольный объект</a></li>
