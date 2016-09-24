@@ -12,6 +12,7 @@
     <li>rcl_block() - <a href="https://codeseller.ru/api-rcl/rcl_block/">блоки в ЛК</a></li>
     <li><a href="https://codeseller.ru/post-group/izmenyaem-dannye-i-soderzhimoe-vkladki-lichnogo-kabineta-na-letu/">Изменяем данные и содержимое вкладки личного кабинета на лету</a></li>
     <li><a href="https://codeseller.ru/post-group/funkcional-keshirovaniya-plagina-wp-recall/">Функционал кеширования плагина WP-Recall</a></li>
+    <li><a href="https://codeseller.ru/post-group/ispolzuem-rcl_cache-chast-pervaya-ili-kak-ya-zakeshiroval-glavnuyu-stranicu-sajta-i-poluchil-otlichnye-rezultaty/">Используем Rcl_Cache, часть первая. Или как я закешировал главную страницу сайта и получил отличные результаты</a></li>
     <li><a href="https://codeseller.ru/post-group/registriruem-v-gruppe-oblast-kontenta-i-dobavlyaem-svoj-vidzhet/">Регистрируем в группе область контента и добавляем свой виджет</a></li>
     <li><a href="https://codeseller.ru/post-group/snippety-wp-recall-chtoby-ne-poteryat/">Сниппеты Wp-Recall чтобы не потерять</a> - некоторые советы</li>
     <li></li>
@@ -33,20 +34,28 @@
     <li><a href="https://codeseller.ru/forum/problemy-i-resheniya/rejting-zapisi-na-glavnoj-stranice/#p10410">Получить полный рейтинг записи</a></li>
     <li><a href="https://codeseller.ru/forum/ustanovka-i-nastroyka/rejting-avtora-kommentariya/#p10713">Вывод общего рейтинга в комментариях</a></li>
     <li></li>
-    <li>Вывод кнопки ЛК в нужном месте, вывести ajax смайлы от wp-recall в форме комментариев и задать свой размер миниатюры для аватарок, вывести прелоадер и нотификации  можно почитав <a href="https://codeseller.ru/post-group/wp-recall-13-0-veter-peremen-ili-sovsem-ne-strashnaya-versiya/">тут </a></li>
+    <li><a href="https://codeseller.ru/post-group/wp-recall-13-0-veter-peremen-ili-sovsem-ne-strashnaya-versiya/">13-я версия.</a> Вывод кнопки ЛК в нужном месте, вывести ajax смайлы от wp-recall в форме комментариев и задать свой размер миниатюры для аватарок, вывести прелоадер и нотификации</li>
     <li>Про смайлы в комментариях еще <a href="https://codeseller.ru/forum/product-10649/smajliki-spryatalis/#p7743">здесь </a></li>
-    <li>Локальные настройки дополнений, работа с событиями по расписанию реколл, кеширование реколл, параметры для добавления ajax своей вкладки - обо всём - <a href="https://codeseller.ru/post-group/wp-recall-14-0-nastraivaem-svoj-cvet-keshiruem-i-obnovlyaemsya-s-drugogo-domena/">тут</a></li>
+    <li><a href="https://codeseller.ru/post-group/wp-recall-14-0-nastraivaem-svoj-cvet-keshiruem-i-obnovlyaemsya-s-drugogo-domena/">14-я версия.</a> Локальные настройки дополнений, работа с событиями по расписанию реколл, кеширование реколл, параметры для добавления ajax своей вкладки</li>
+    <li><a href="https://codeseller.ru/post-group/wp-recall-15/">15-я версия.</a> Новый реколлбар, вывод в реколлбаре своей кнопки, пункта меню. новые области вывода в ЛК, новые шаблоны ЛК и поддержка новых функций, расширение класса настроек Rcl_Options, подключение css и js файлов</li>
+    <li><a href="https://codeseller.ru/post-group/wp-recall-15-2-0-dobavlyaem-dochernie-vkladki/">15.2.0 версия.</a> Добавление дочерних вкладок к своим дополнениям</li>
+    <li><a href="https://codeseller.ru/post-group/wp-recall-15-3-0-dialogovye-okna-perexod-na-ajax-vnutri-vkladok-xuki-i-filtry-v-js/">15.3.0 версия</a> — диалоговые окна, переход на ajax внутри вкладок, хуки и фильтры в js</li>
     <li></li>
     <li><a href="https://codeseller.ru/forum/faqs/skryt-blok-avtor-publikacii/#p11002">Скрыть блок автора в некоторых рубриках</a></li>
     <li><a href="https://codeseller.ru/forum/faqs/problema-s-avatarom/#p11084">Увеличить размер картинки аватарки в профиле</a></li>
     <li><a href="https://codeseller.ru/forum/faqs/kak-ubrat-podrobnaya-informaciya/#p9371">В профиле скрыть кнопку и раскрыть блок "Подробная информация"</a></li>
     <li><a href="https://codeseller.ru/forum/faqs/kod-vstavki-vxodregistraciya-v-lyubom-meste/#p11259">Свои вход и регистрация</a></li>
     <li><a href="https://codeseller.ru/forum/faqs/kak-smenit-balans-u-vsex-polzovatelej/#p13679">Начислить баланс пользователям при регистрации</a></li>
+    <li><a href="https://codeseller.ru/post-group/dobavlyaem-podklyuchenie-wp-recall-k-platezhnoj-sisteme/">Добавляем подключение платежной системы к Wp-Recall</a></li>
     <li></li>
+    <li><a href="https://codeseller.ru/post-group/rabota-wordpress-krona-cron-prinuditelnoe-vypolnenie-kron-zadach-dlya-wp-recall/">Работа WordPress крона (cron), принудительное выполнение крон-задач для WP-Recall</a></li>
+    <li><a href="https://codeseller.ru/reshaem-vopros-s-obnovleniyami-plaginov/">Решаем вопрос с обновлениями плагинов от CODESELLER.RU!</a></li>
     <li><a href="https://codeseller.ru/forum/problemy-i-resheniya/vazhno-prochest-pered-publikaciej-na-forume/">Анализ неработоспособности плагина. </a></li>
     <li><a href="https://codeseller.ru/post-group/uchimsya-rabotat-s-panelyu-razrabotchika-brauzera-likbez-dlya-chajnikov/">Учимся работать с панелью разработчика браузера.</a> - выявляем конфликты скриптов на своем сайте и учимся менять стили css на нужные вам</li>
     <li><a href="https://codeseller.ru/post-group/varianty-zashhity-ot-spam-registracij/">Варианты защиты от спам регистраций</a></li>
     <li><a href="https://codeseller.ru/post-group/zachem-obnovlyatsya-i-sledim-za-obnovleniyami-plagina-wp-recall/">Зачем обновляться? и Следим за обновлениями плагина Wp-Recall</a></li>
+    <li></li>
+    <li><a href="https://codeseller.ru/gruppy/">Много годноты в группах</a></li>
     <li></li>
 </ul>
 </div>
