@@ -35,6 +35,11 @@
         <iframe width="680" height="415" src="https://www.youtube.com/embed/AkuId3MDhcQ" frameborder="0" allowfullscreen></iframe>
     </div>
 
+    <div class="tab_3_blk">
+        <span>WP-Recall 16.<br/> Настройка формы публикации :</span>
+        <iframe width="680" height="415" src="https://www.youtube.com/embed/Mn9Bot9jfHc" frameborder="0" allowfullscreen></iframe>
+    </div>
+
     <br clear="left">
     <br/>
 
@@ -60,6 +65,36 @@
     <div class="tab_3_blk">
         <span><a title="Перейти к дополнению" href="https://codeseller.ru/products/theme-line/">Theme Line</a>  - минималистичная тема личного кабинета с широкими возможностями настроек:</span>
         <iframe width="680" height="415" src="https://www.youtube.com/embed/NeJd0_vIlJA" frameborder="0" allowfullscreen></iframe>
+    </div>
+
+    <div class="tab_3_blk">
+        <span><a title="Перейти к дополнению" href="https://codeseller.ru/products/booking-visitors/">Booking Visitors</a>  - организует процесс оформления онлайн-записи на прием к специалисту для предоставления услуги:</span>
+        <iframe width="680" height="415" src="https://www.youtube.com/embed/dWUzDMqi-WM" frameborder="0" allowfullscreen></iframe>
+    </div>
+
+    <div class="tab_3_blk">
+        <span>Плагин <a title="Перейти к товару" href="https://codeseller.ru/products/wp-eventsplaces/">WP Events&Places</a>  - WordPress плагин для организации и автоматизации процедуры бронирования мест на мероприятия и их оплаты:</span>
+        <iframe width="680" height="415" src="https://www.youtube.com/embed/4YLq0FkdVBs" frameborder="0" allowfullscreen></iframe>
+    </div>
+
+    <div class="tab_3_blk">
+        <span><a title="Перейти к дополнению" href="https://codeseller.ru/products/birthday-in-profile/">Birthday in Profile</a>  - Добавляет в настройки профиля возможность указать день рождения. Выводит возраст:</span>
+        <iframe width="680" height="415" src="https://www.youtube.com/embed/Rb7KvICfpfU" frameborder="0" allowfullscreen></iframe>
+    </div>
+
+    <div class="tab_3_blk">
+        <span><a title="Перейти к дополнению" href="https://codeseller.ru/products/christmas-time-ukrashaem-sajt-i-profil-k-prazdnikam/">Christmas Time</a> - Украшаем сайт и профиль к новогодним праздникам- гирлянды, шапочка на аву, ёлка:</span>
+        <iframe width="680" height="415" src="https://www.youtube.com/embed/VsN9xYg8GSg" frameborder="0" allowfullscreen></iframe>
+    </div>
+
+    <div class="tab_3_blk">
+        <span><a title="Перейти к дополнению" href="https://codeseller.ru/products/ajax-contacts-author/">Ajax Contacts Author</a> - Выводит кнопку для запроса контактов автора публикации: почту и телефон:</span>
+        <iframe width="680" height="415" src="https://www.youtube.com/embed/tnf_ybn3-iM" frameborder="0" allowfullscreen></iframe>
+    </div>
+
+    <div class="tab_3_blk">
+        <span><a title="Перейти к дополнению" href="https://codeseller.ru/products/theme-control/">Theme Control</a> - Шаблон личного кабинета для совместной работы с дополнением User Info Tab:</span>
+        <iframe width="680" height="415" src="https://www.youtube.com/embed/qz1k2gUXbwE" frameborder="0" allowfullscreen></iframe>
     </div>
 
 </div>
